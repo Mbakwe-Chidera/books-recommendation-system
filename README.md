@@ -1,8 +1,8 @@
-#Project Title: Book Recommendation System
-#Objective:
+## Project Title: Book Recommendation System
+## Objective:
 The objective of the Book Recommendation System is to develop a personalized recommendation engine that suggests books to users based on their selected preferences. The system aims to provide an engaging and tailored reading experience for users.
 
-#Thought Process:
+## Thought Process:
 Data Collection:
 The dataset used for this project was obtained from kagggle. It includes information about various books, including titles, authors, and user ratings. Data preprocessing steps involved handling missing values, cleaning, and transforming the data into a suitable format for recommendation modeling.
 
