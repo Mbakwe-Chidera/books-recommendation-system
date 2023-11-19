@@ -31,3 +31,5 @@ Address scalability considerations for handling a larger user and book dataset.
 
 ## Conclusion:
 The Book Recommendation System project achieved its goal of providing an interactive and personalized book recommendation experience. The insights gained from user feedback and evaluation metrics will inform future iterations and improvements to enhance the system's effectiveness.
+
+![image](https://github.com/Mbakwe-Chidera/books-recommendation-system/assets/115686557/ceecf808-d524-4cc7-993a-1fa3b1b1b341)
