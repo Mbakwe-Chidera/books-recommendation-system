@@ -7,7 +7,8 @@ Data Collection:
 The dataset used for this project was obtained from kagggle. It includes information about various books, including titles, authors, and user ratings. Data preprocessing steps involved handling missing values, cleaning, and transforming the data into a suitable format for recommendation modeling.
 
 ## Model Selection:
-The collaborative filtering approach was chosen for the recommendation system. The decision was based on its ability to capture user preferences by leveraging the behavior and preferences of similar users. The cosine similarity metric was selected for measuring the similarity between books.
+The content based filtering approach was chosen for the recommendation system.
+The cosine similarity metric was selected for measuring the similarity between books.
 
 ## Feature Engineering:
 Key features for recommendation include book titles and authors. Additional features, such as user ratings and publication years, were considered to enhance the recommendation quality.
